@@ -1,0 +1,18 @@
+h1
+{color: aquamarine;
+background-color: #123;
+display: inline;
+border-style:solid;
+border-color: red;
+border-width: 5px;
+padding: 5px 20px;
+margin-left: 20px;
+transition: 3s;
+}
+h1:hover{
+    color: red;
+    border-style:solid;
+    border-radius: 20px;
+border-color: rgb(16, 225, 76);
+transition: 3s;
+}
